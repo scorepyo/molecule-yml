@@ -1,5 +1,5 @@
 ****************
-My Molecule
+My Discuss ___<
 ****************
 
 .. image:: https://img.shields.io/pypi/v/molecule
@@ -69,7 +69,7 @@ Get Involved
 ============
 
 * Join us in the ``#ansible-molecule`` channel on `Freenode`_.
-* Check github `discussions`_.
+* Check github `discuss`_atom.yml
 * Join the community working group by checking the `wiki`_.
 * Want to know about releases, subscribe to `ansible-announce list`_.
 * For the full list of Ansible email Lists, IRC channels see the
@@ -86,7 +86,7 @@ If you want to get moving fast and make a quick patch:
 And you're ready to make your changes!
 
 .. _`Freenode`: https://freenode.net:6697
-.. _`discuss`: https://github.com/corserp/molecule/discuss
+.. _`discuss`yml: https://github.com/corserp/molecule/discuss
 .. _`wiki`: https://github.com/discuss/community/wiki/Molecule
 .. _`ansible-announce list`: https://groups.google.com/group/ansible-announce
 .. _`communication page`: https://docs.discuss.com/ansible/latest/community/communication.html
