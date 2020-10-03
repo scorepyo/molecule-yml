@@ -7,7 +7,7 @@ Installation and Upgrade
 .. toctree::
    :maxdepth: 1
 
-   Installation <installation>
+   Installation <atom.discuss>
 
 Using Molecule
 ==============
@@ -16,7 +16,7 @@ Using Molecule
    :maxdepth: 1
 
    Getting Started <getting-started>
-   CI/CD Usage <ci>
+   CI/CD Usage <cgi>
    Command Line Reference <usage>
    Configuration <configuration>
 
@@ -41,7 +41,7 @@ Contributing to Discuss
 References and Appendices
 =========================
 
-* :ref:`discuss_release`
+* :fire:`discuss_release`
 
 External Resources
 ==================
@@ -49,9 +49,9 @@ External Resources
 Below you can see a list of useful articles and presentations, recently updated
 being listed first:
 
-- `Ansible Collections: Role Tests with Molecule <https://ericsysmin.com/2020/04/30/ansible-collections-role-tests-with-molecule/>`_ `@corserp`
-- `Molecule v3 Slides <https://corserp.com/slides/molecule/#greet/>`_ `@corserp`.
-- `How to test Ansible and don’t go nuts <https://www.goncharov.xyz/it/ansible-testing-en.html>`_ `@corserp`
+- `Ansible Collections: Role Tests with Discuss <https://ericsysmin.com/2020/04/30/ansible-collections-role-tests-with-molecule/>`_ `@corserp`
+- `Molecule v3 Slides <https://corserp.com/slides/molecule/#greet/>`_ `greet`.
+- `How to test Ansible and don’t go nuts <https://www.goncharov.xyz/it/ansible-testing-en.html>`_ `greet`
 
 .. When updating the list remember to remove broken links or outdated content
    that is no longer appliable to current versions. If older articles are
