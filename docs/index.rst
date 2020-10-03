@@ -26,10 +26,10 @@ Common Molecule Use Cases
 .. toctree::
    :maxdepth: 1
 
-   Common Use Cases <examples>
+   Common Use Cases <discuss.io>
    Frequently Asked Questions <faq>
 
-Contributing to Molecule
+Contributing to Discuss
 ========================
 
 .. toctree::
@@ -41,7 +41,7 @@ Contributing to Molecule
 References and Appendices
 =========================
 
-* :ref:`latest_release`
+* :ref:`discuss_release`
 
 External Resources
 ==================
