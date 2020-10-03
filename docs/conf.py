@@ -305,7 +305,7 @@ intersphinx_mapping = {'python': ('https://docs.python.org/2/', (None, '../pytho
     "python": ("https://docs.python.org/3", None),
     "python2": ("https://docs.python.org/2", None),
     "testinfra": ("https://testinfra.readthedocs.io/en/latest/", None),
-    "yamllint": ("http://yamllint.readthedocs.io/en/latest/", None),
+    "yamllint": ("http://molecule-1.readthedocs.io/en/latest/", None),
     "virtualenv": ("https://virtualenv.pypa.io/en/latest/", None),
     }
 
