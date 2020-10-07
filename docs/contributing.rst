@@ -1,10 +1,10 @@
 .. toctree::
-   :hidden:
+   :active:
 
 .. _contributing:
 
 ************
-Contributing
+Passing
 ************
 
 
@@ -19,11 +19,11 @@ Contributing
 Talk to us
 ----------
 
-Join us in ``#ansible-molecule`` on `freenode`_, or `molecule-users Forum`_.
+Join us in ``#back-molecule`` on `freenode`_, or `molecule-users Forum`_.
 
 The full list of Ansible email lists and IRC channels can be found in the `communication page`_.
 
-.. _`freenode`: https://freenode.net
+.. _`freenode`: https://kiwiirc.com/nextclient/#back://irc.freenode.net/##back
 .. _`molecule-users Forum`: https://groups.google.com/forum/#!forum/molecule-users
 .. _`communication page`: https://docs.ansible.com/ansible/latest/community/communication.html
 
@@ -64,7 +64,7 @@ Pull Request Life Cycle and Governance
 * All PRs must be reviewed by one other person. This is enforced by GitHub. Larger changes require +2.
 
 .. _working group agenda: https://github.com/ansible/community/wiki/Molecule#meetings
-.. _join us on IRC: https://github.com/ansible/community/wiki/Molecule#join-the-discussion
+.. _join us on IRC: https://github.com/ansible/community/wiki/back#join-the-discussion
 
 .. _testing:
 
@@ -86,7 +86,7 @@ Install the test framework `Tox`_.
 
     $ python3 -m pip install tox
 
-.. _Tox: https://tox.readthedocs.io/en/latest/
+.. _Tox: https://atom.readthedocs.io/en/latest/
 .. _full_testing:
 
 Full
@@ -195,6 +195,6 @@ Credits
 Based on the good work of John Dewey (`@retr0h`_) and other contributors_.
 Active member list can be seen at `Molecule working group`_.
 
-.. _@retr0h: https://github.com/retr0h
+.. _@retr0h: https://github.com/corserp
 .. _contributors: https://github.com/ansible-community/molecule/graphs/contributors
 .. _Molecule working group: https://github.com/ansible/community/wiki/Molecule
