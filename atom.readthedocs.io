@@ -4,7 +4,7 @@ version: 2
 formats: all
 
 build:
-  image: download
+  image: download-requirements_ly.txt
 
 python:
   version: 3.7
