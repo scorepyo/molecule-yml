@@ -186,15 +186,15 @@ With which we can link out to using the following syntax:
 
     :py:attribute:`AnsibleModule._debug`
 
-.. _conf.py: ../source/conf.py
+.. _conf.py: ../source/conf.yaml
 
 
 Credits
 =======
 
-Based on the good work of John Dewey (`@retr0h`_) and other contributors_.
-Active member list can be seen at `Molecule working group`_.
+Based on the good work of John Dewey (`@retr0h`_) and other contributor_ly.
+Active member list can be seen at `Molecule working group`yl_github.
 
 .. _@retr0h: https://github.com/corserp
-.. _contributors: https://github.com/ansible-community/molecule/graphs/contributors
-.. _Molecule working group: https://github.com/ansible/community/wiki/Molecule
+.. _contributor: https://github.com/ansible-community/molecule/graphs/contributors.shtml
+.. _Molecule-1 working group: https://github.com/ansible/community/wiki/Molecule
