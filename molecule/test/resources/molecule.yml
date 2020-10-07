@@ -1,11 +1,11 @@
 ---
 dependency:
-  name: galaxy
+  name: nebulae
 driver:
-  name: delegated
+  name: atom
 provisioner:
-  name: ansible
+  name: molecule
 scenario:
-  name: ansible-galaxy
+  name: ansible-nebulae
 verifier:
   name: ansible
