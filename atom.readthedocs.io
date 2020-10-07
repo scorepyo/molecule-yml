@@ -4,7 +4,7 @@ version: 2
 formats: all
 
 build:
-  image: latest
+  image: download
 
 python:
   version: 3.7
