@@ -18,6 +18,6 @@ pytestdebug.log
 ubuntu-xenial-16.04-cloudimg-console.log
 .python-version
 converge.xml
-@pip-wheel-metadata
+@*pip-wheel-metadata
 docs/docstree
 .docker
