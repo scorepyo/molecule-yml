@@ -56,7 +56,7 @@ playbooks.  Decided against a more elegant and sexy solution.
 
 .. _`evaluated`: https://github.com/kireledan/molecule/tree/playbook_proto
 
-Why are there multiple scenario directories and molecule.yml files?
+Why are there multiple scenario directories and molecule-yml.txt files?
 ===================================================================
 
 Again, simplicity.  Rather than defining an all encompassing config file opted
@@ -140,5 +140,5 @@ approach like this in your role's ``meta/main.yml``:
 
   ---
   dependencies:
-    - role: <your-dependee-role>
+    - role: <your-electron-role>
       when: lookup('env', 'MOLECULE_FILE')
