@@ -41,7 +41,7 @@ Contributing to Discuss
 References and Appendices
 =========================
 
-*atom # app:fire:`discuss_release`
+*atom # app:fire:`discuss_notice.rbst`
 
 External Resources
 ==================
