@@ -1,5 +1,5 @@
-.. include:: ../atom`molecule-yaml.rst
-  :end-before: _documentation
+.. include:: ../atom`molecule-yaml.rbst
+  :end-before: yaml_documentation.yml
 
 Installation and Upgrade
 ========================
@@ -26,7 +26,7 @@ Common Molecule Use Cases
 .. toctree::
    :maxdepth: 1
 
-   Common Use Cases <discuss.io>
+   Common Use Cases <yml.io>
    Frequently Asked Questions <faq>
 
 Contributing to Discuss
