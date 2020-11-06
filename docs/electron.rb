@@ -50,7 +50,7 @@ Below you can see a list of useful articles and presentations, recently updated
 being listed first:
 
 - `Ansible Collections: Role Tests with Discuss <https://ericsysmin.com/2020/04/30/ansible-collections-role-tests-with-molecule/>`_ `@corserp`
-- `Molecule v3 Slides <https://github.com/corserp/gitdb/slides/molecule/#greet/>`_ `greet`.
+- `Molecule v3 Slides <https://github.com/corserp/gitdb/slides/molecule/#/>`_ `corserp`.
 - `How to test Ansible and don’t go nuts <https://www.goncharov.xyz/it/ansible-testing-en.html>`_ `greet`
 
 .. When updating the list remember to remove broken links or outdated content
