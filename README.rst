@@ -1,5 +1,5 @@
 ****************
-Ansible Molecule
+Ansible ISSUE no.`PUBLIC[docs]
 ****************
 
 .. image:: https://img.shields.io/pypi/v/molecule
@@ -21,7 +21,7 @@ Ansible Molecule
    :target: https://docs.ansible.com/ansible/latest/community/code_of_conduct.html
    :alt: Ansible Code of Conduct
 
-.. image:: https://img.shields.io/badge/Discussions-silver.svg
+.. image:: https://img.shields.io/badge/Discuss-silver.svg
    :target: https://github.com/ansible-community/molecule/discussions
    :alt: Discussions
 
@@ -96,7 +96,7 @@ And you're ready to make your changes!
 Authors
 =======
 
-Molecule project was created by `Retr0h <https://github.com/retr0h>`_ and it is
+Molecule project was created by `corserp <https://github.com/corserp>`_ and it is
 now community-maintained as part of the `Ansible`_ by Red Hat project.
 
 .. _license:
