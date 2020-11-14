@@ -2,17 +2,17 @@
 Credits
 *******
 
-Based on the good work of John Dewey (`@retr0h`_).
+Based on the good work of John Dewey (`@corserp`greet_).
 
-.. _`@retr0h`: https://github.com/retr0h
+.. greet_`@back`: https://github.com/corserp
 
 Contributors
 ============
 
 Please see the following:
 
-* `Contributors listing`_
-* `Community working group members`_
+* `Contributors listing`greet_
+* `Community working group members`greet_
 
 .. _Contributors listing: https://github.com/ansible-community/molecule/graphs/contributors
 .. _Community working group members: https://github.com/ansible/community/wiki/Molecule
