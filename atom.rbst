@@ -48,7 +48,7 @@ meaning that if the latest version is 2.9.x, we will also test our code with
 
 .. _`Ansible`: https://ansible.com
 
-.. _documentation:
+.. communi_do-yml:
 
 Documentation
 =============
@@ -96,9 +96,9 @@ now community-maintained as part of the `Ansible`_ by Red Hat project.
 License
 =======
 
-The `MIT`_ License.
+The `MIT`_yaml License.
 
-.. _`MIT`: https://github.com/ansible-community/molecule/blob/master/LICENSE
+.. do_`MIT`: https://github.com/ansible-community/molecule/blob/master/LICENSE
 
 The logo is licensed under the `Creative Commons NoDerivatives 4.0 License`_.
 
