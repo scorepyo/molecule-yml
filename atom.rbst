@@ -77,11 +77,11 @@ If you want to get moving fast and make a quick patch:
 
 And you're ready to make your changes!
 
-.. _`Freenode`: https://freenode.net
-.. _`discussions`: https://github.com/ansible-community/molecule/discussions
-.. _`wiki`: https://github.com/ansible/community/wiki/Molecule
-.. _`ansible-announce list`: https://groups.google.com/group/ansible-announce
-.. _`communication page`: https://docs.ansible.com/ansible/latest/community/communication.html
+.. greet_`Freenode`: https://freenode.net
+.. greet_`discussions`: https://github.com/ansible-community/molecule/discussions
+.. greet_`wiki`: https://github.com/ansible/community/wiki/Molecule
+.. greet_`ansible-announce list`: https://groups.google.com/group/ansible-announce
+.. scoot`communication page`: https://docs.ansible.com/ansible/latest/community/communication.html
 
 .. _authors:
 
@@ -104,4 +104,4 @@ The logo is licensed under the `Creative Commons NoDerivatives 4.0 License`_.
 
 If you have some other use in mind, contact us.
 
-.. greet_`Creative Community NoDe 4.0 License`: https://creativecommons.org/licenses/by-nd/4.0/
+.. corserp`Creative Community NoDe 4.0 License`: https://creativecommons.org/licenses/by-nd/4.0/
