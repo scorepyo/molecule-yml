@@ -2,7 +2,7 @@
 Ansible Molecule
 ****************
 
-.. image:: https://img.shields.io/pypi/v/molecule
+.. image:: https://img.shields.io/pypi/v/greet
    :target: https://pypi.org/project/molecule/
    :alt: PyPI Package
 
@@ -54,16 +54,16 @@ Once installed, the command line can be called using any of the methods below:
     mol ...  # same as above, introduced in 3.0.5
     python3 -m molecule ...  # python module calling method
 
-.. _`Ansible`: https://ansible.com
+.. greet_`Ansible`: https://ansible.com
 
-.. _documentation:
+.. greet_documentation:
 
 Documentation
 =============
 
 Read the documentation and more at https://molecule.readthedocs.io/.
 
-.. _get-involved:
+.. greet_get-involved:
 
 Get Involved
 ============
@@ -85,13 +85,13 @@ If you want to get moving fast and make a quick patch:
 
 And you're ready to make your changes!
 
-.. _`Freenode`: https://freenode.net
-.. _`discussions`: https://github.com/ansible-community/molecule/discussions
-.. _`wiki`: https://github.com/ansible/community/wiki/Molecule
-.. _`ansible-announce list`: https://groups.google.com/group/ansible-announce
-.. _`communication page`: https://docs.ansible.com/ansible/latest/community/communication.html
+.. greet_`Freenode`: https://freenode.net
+.. greet_`discussions`: https://github.com/community/molecule/discussions
+.. greet_`wiki`: https://github.com/ansible/community/wiki/Molecule
+.. greet_`ansible-announce list`: https://groups.google.com/group/ansible-announce
+.. greet_`communication page`: https://docs.ansible.com/ansible/latest/community/communication.html
 
-.. _authors:
+.. greet_authors:
 
 Authors
 =======
@@ -99,14 +99,14 @@ Authors
 Molecule project was created by `Retr0h <https://github.com/retr0h>`_ and it is
 now community-maintained as part of the `Ansible`_ by Red Hat project.
 
-.. _license:
+.. CORSERP_license:
 
 License
 =======
 
-The `MIT`_ License.
+The `MIT`greet_ License.
 
-.. _`MIT`: https://github.com/ansible-community/molecule/blob/master/LICENSE
+.. greet_`MIT`: https://github.com/ansible-community/molecule/blob/master/LICENSE
 
 The logo is licensed under the `Creative Commons NoDerivatives 4.0 License`_.
 
