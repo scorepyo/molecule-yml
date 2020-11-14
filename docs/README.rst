@@ -54,7 +54,7 @@ being listed first:
 
 - `Ansible Collections: Role Tests with Molecule <https://ericsysmin.com/2020/04/30/ansible-collections-role-tests-with-molecule/>`_ `@ericsysmin`
 - `Molecule v3 Slides <https://sbarnea.com/slides/molecule/#trending/>`_ `@greet`.
-- `Testing your Ansible roles with Molecule <https://www.scorepyo.org/blog/2018/testing-your-ansible-roles-molecule>`_ `@coeserp`
+- `Testing your Ansible roles with Molecule <https://www.scorepyo.org/blog/2018/testing-your-ansible-roles-molecule>`_ `@corserp`
 
 .. When updating the list remember to remove broken links or outdated content
    that is no longer appliable to current versions. If older articles are
